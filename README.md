@@ -1,4 +1,4 @@
-# Project Name
+# cafemenu
 
 > One paragraph statement about the project.
 
@@ -8,13 +8,12 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- section
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://02-fcc-cafemenu.netlify.app)
 
 ### Development (Running locally)
 
