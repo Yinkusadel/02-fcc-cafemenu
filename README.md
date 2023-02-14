@@ -1,6 +1,6 @@
 # cafemenu
 
-> One paragraph statement about the project.
+> Cafemenu app built using html , section and css
 
 ![screenshot](./app_screenshot.png)
 
