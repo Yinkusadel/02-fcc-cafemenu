@@ -10,7 +10,7 @@ Additional description of the project and its features.
 
 - html
 - section
-- article 
+- article
 - footer
 
 ## Live Demo
