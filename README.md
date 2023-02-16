@@ -1,6 +1,6 @@
 # cafemenu
 
-> Cafemenu app built using html , section and css
+learn CSS by designing a menu page for a cafe webpage
 
 ![screenshot](./app_screenshot.png)
 
