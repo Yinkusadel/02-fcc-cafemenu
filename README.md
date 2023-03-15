@@ -8,10 +8,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- section
-- article
-- footer
+- ### HTML5 elements
+  - **Heading element**
+    `h1``h2`
+  - **Block element**
+    `div` `p` `article` `footer` `section`
+- ### CSS properties
+  - CSS selectors `class selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
