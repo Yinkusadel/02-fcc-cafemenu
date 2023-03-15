@@ -10,7 +10,7 @@ Additional description of the project and its features.
 
 - ### HTML5 elements
   - **Heading element**
-    ` h1``h2 `
+    ` h1` `h2`
   - **Block element**
     `div` `p` `article` `footer` `section`
 - ### CSS properties
