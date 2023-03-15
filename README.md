@@ -1,6 +1,6 @@
-# Project Name
+# cafemenu
 
-> One paragraph statement about the project.
+learn CSS by designing a menu page for a cafe webpage
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,22 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- ### HTML5 elements
+  - **Heading element**
+    ` h1` `h2`
+  - **Block element**
+    `div` `p` `article` `footer` `section`
+- ### CSS properties
+  - CSS selectors `class selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://02-fcc-cafemenu.netlify.app)
 
 ### Development (Running locally)
 
